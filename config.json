@@ -1,0 +1,14 @@
+{
+	"logging info":[{
+		"log location": "log files/covid_alarm_log.log"
+	}],
+
+	"API information":[{
+		"news key": "YOUR NEWS API KEY HERE https://newsapi.org/",
+		"news country": "gb",
+		"news topic": "covid",
+		"weather key": "YOUR WEATHER API KEY HERE https://openweathermap.org",
+		"weather location": "Exeter",
+		"covid area": "Devon"
+	}]
+}
